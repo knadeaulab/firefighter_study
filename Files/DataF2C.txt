@@ -1,0 +1,85 @@
+# GREAT version 4.0.4	Species assembly: hg19	"Association rule: Basal+extension: 5000 bp upstream, 1000 bp downstream, 1000000 bp max extension, curated regulatory domains included"
+ALG2	"unnamed (-349), unnamed (+172), unnamed (+217)"	
+APOM	"unnamed (-2820), unnamed (-2734)"	
+ARL3	unnamed (+546)	
+ATP6V1G2	unnamed (-708)	
+ATP6V1G2-DDX39B	unnamed (-970)	
+BAG6	"unnamed (-37), unnamed (+49)"	
+BOLA3	"unnamed (+17511), unnamed (+17610)"	
+BRD2	unnamed (-2200)	
+CHP1	unnamed (+52974)	
+CLIP1	unnamed (-41428)	
+CPT1A	unnamed (-49331)	
+DDAH2	unnamed (-435)	
+DHX16	unnamed (+4)	
+DNAH7	unnamed (-277)	
+EFEMP2	unnamed (-820)	
+ERP29	unnamed (+59)	
+ESYT1	unnamed (+226)	
+EXOC6	"unnamed (-158210), unnamed (-158037)"	
+FLOT1	unnamed (-1912)	
+FMNL1	unnamed (+26153)	
+FOXA3	unnamed (-1368)	
+GTF2H4	unnamed (-185)	
+HHEX	"unnamed (+2122), unnamed (+2295)"	
+HIST1H2AB	unnamed (+232)	
+HIST1H2AG	unnamed (+227)	
+HIST1H2BH	unnamed (-1203)	
+HIST1H2BI	"unnamed (-411), unnamed (+112)"	
+HIST1H2BJ	"unnamed (-530), unnamed (+5728)"	
+HIST1H2BL	unnamed (+54857)	
+HIST1H3B	unnamed (-1276)	
+HIST1H3F	unnamed (+159)	
+HIST1H3G	"unnamed (-1644), unnamed (-1121)"	
+HIST1H4G	unnamed (-3417)	
+HMSD	unnamed (-12650)	
+IER3	unnamed (-91)	
+IL15	unnamed (-302752)	
+IRF1	unnamed (+80062)	
+KIAA0391	unnamed (-290)	
+KIAA1432	unnamed (+350)	
+KIF11	unnamed (+115)	
+KLF3	unnamed (+89161)	
+MAMSTR	unnamed (-9302)	
+METTL7B	"unnamed (-35320), unnamed (-35216)"	
+MLANA	unnamed (+116262)	
+MOB4	unnamed (+569)	
+MRPL21	unnamed (+12573)	
+NEU1	unnamed (-261)	
+NFKBIL1	unnamed (-29)	
+OIP5	unnamed (+48504)	
+OR10P1	"unnamed (+9366), unnamed (+9470)"	
+OVOL1	unnamed (+31216)	
+PFKFB3	unnamed (-38941)	
+PIP5K1A	unnamed (+302)	
+POLI	unnamed (+524)	
+POLR3H	unnamed (+46)	
+PPP2R3C	unnamed (+33)	
+PRKRIR	unnamed (+144858)	
+RANBP6	unnamed (+8554)	
+RASIP1	unnamed (+11698)	
+RBM17	unnamed (+74644)	
+SEC61B	"unnamed (-562), unnamed (-517), unnamed (+4)"	
+SERPINB10	unnamed (+28660)	
+SFXN2	unnamed (-679)	
+SHROOM1	unnamed (+478)	
+SLC22A4	"unnamed (-471), unnamed (+185)"	
+SLC22A5	unnamed (+40984)	
+SMARCE1	unnamed (+807)	
+SNX27	unnamed (+439)	
+SNX32	unnamed (-15403)	
+SPATA32	unnamed (+14170)	
+STARD3	unnamed (+96)	
+SYMPK	unnamed (+398)	
+TET3	"unnamed (+84061), unnamed (+84160)"	
+TLR10	unnamed (+29601)	
+TMEM116	unnamed (-264)	
+TP53RK	unnamed (+255)	
+VPS72	"unnamed (-100), unnamed (+65)"	
+WNT11	unnamed (-29552)	
+ZCCHC8	"unnamed (+779), unnamed (+79049)"	
+ZFP57	unnamed (-1749)	
+ZKSCAN4	unnamed (+461)	
+ZNF184	unnamed (-279955)	
+ZNF322	unnamed (-434821)	
+ZNF330	unnamed (+112962)	

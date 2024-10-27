@@ -1,0 +1,503 @@
+# GREAT version 4.0.4	Species assembly: hg19	"Association rule: Basal+extension: 5000 bp upstream, 1000 bp downstream, 1000000 bp max extension, curated regulatory domains included"
+A4GALT	unnamed (-59722)	
+AAGAB	"unnamed (-390), unnamed (+164986)"	
+ABCC4	unnamed (+3551)	
+ABCF3	"unnamed (-9577), unnamed (-9058)"	
+ABT1	"unnamed (-42921), unnamed (-40712), unnamed (-22795), unnamed (+452)"	
+ACBD4	"unnamed (+768), unnamed (+775), unnamed (+3574), unnamed (+3650), unnamed (+3673)"	
+ACTR1A	"unnamed (-1647), unnamed (+283)"	
+AGER	unnamed (+427)	
+AHRR	unnamed (+88525)	
+AIM2	unnamed (+61087)	
+AKAP13	"unnamed (-397885), unnamed (-397821), unnamed (-397764), unnamed (-397401)"	
+AKR1E2	unnamed (-301)	
+AKT1S1	unnamed (-33412)	
+ALDH1A1	unnamed (-535)	
+ALDH2	unnamed (+46260)	
+ALDH4A1	"unnamed (-51667), unnamed (-51302), unnamed (-51035), unnamed (-51010), unnamed (-50985), unnamed (-50967), unnamed (-50942), unnamed (-50926)"	
+ALG2	"unnamed (-743), unnamed (-349), unnamed (+172)"	
+AMIGO2	unnamed (-143458)	
+AMPD2	"unnamed (+23068), unnamed (+23128), unnamed (+23156), unnamed (+23158), unnamed (+23350)"	
+AMZ1	unnamed (+55577)	
+ANKRD12	"unnamed (+1793), unnamed (+2744)"	
+ANLN	"unnamed (+2118), unnamed (+2208)"	
+ANXA9	unnamed (+17292)	
+AOAH	"unnamed (+332530), unnamed (+332620)"	
+AP2M1	"unnamed (+1591), unnamed (+2110)"	
+APOB	unnamed (+149275)	
+ARFGAP3	unnamed (+102694)	
+ARHGAP27	unnamed (+147939)	
+ARHGEF16	unnamed (+50164)	
+ARHGEF28	unnamed (+123698)	
+ARL3	"unnamed (+55952), unnamed (+64791), unnamed (+68443)"	
+ARL5C	unnamed (-28149)	
+ARNT	"unnamed (+327), unnamed (+347), unnamed (+349)"	
+ATF1	unnamed (-225228)	
+ATF5	unnamed (-17703)	
+ATP5B	unnamed (-38500)	
+ATP5H	"unnamed (+10319), unnamed (+10505)"	
+ATP6V1G2	unnamed (-708)	
+ATP6V1G2-DDX39B	unnamed (-970)	
+ATPIF1	unnamed (+817)	
+ATXN10	unnamed (-154486)	
+ATXN2	unnamed (+148479)	
+B3GNT4	unnamed (+21011)	
+B3GNTL1	unnamed (+176958)	
+BACH2	unnamed (+358)	
+BAK1	unnamed (+8408)	
+BATF	unnamed (-66605)	
+BAZ2A	unnamed (+113354)	
+BCAS1	unnamed (+136040)	
+BLOC1S1	unnamed (+257)	
+BRD2	"unnamed (+12560), unnamed (+36572)"	
+BZRAP1	unnamed (-4257)	
+C12orf65	unnamed (+37521)	
+C14orf80	unnamed (+7980)	
+C17orf89	"unnamed (+39011), unnamed (+46537)"	
+C1orf192	unnamed (-21342)	
+C21orf33	unnamed (+26179)	
+C22orf29	unnamed (+87634)	
+C2orf43	unnamed (-94796)	
+C3AR1	"unnamed (+31952), unnamed (+31985), unnamed (+32225)"	
+C5orf55	unnamed (+50442)	
+C6orf47	unnamed (-4860)	
+C9orf69	unnamed (+11467)	
+CACHD1	unnamed (+35924)	
+CACNB1	unnamed (+2489)	
+CASC3	unnamed (+501)	
+CCDC8	unnamed (+41019)	
+CCDC85B	unnamed (+8810)	
+CCDC96	unnamed (+89132)	
+CD320	unnamed (+83680)	
+CD37	unnamed (+791)	
+CD63	unnamed (+2983)	
+CD79B	unnamed (+928)	
+CDC42SE1	"unnamed (-913), unnamed (-325), unnamed (+11033)"	
+CDC42SE2	"unnamed (-1066), unnamed (+120708), unnamed (+122820)"	
+CDCA7	unnamed (-71757)	
+CDK2AP1	unnamed (+1703)	
+CDKN1C	"unnamed (+351932), unnamed (+352517)"	
+CELSR1	"unnamed (-55609), unnamed (-55577), unnamed (-55555), unnamed (-55502), unnamed (-55483), unnamed (-55426), unnamed (-55380), unnamed (-55324)"	
+CERS4	unnamed (+15322)	
+CHP1	unnamed (+52974)	
+CHST11	"unnamed (+2067), unnamed (+2097)"	
+CHST12	unnamed (+3146)	
+CIITA	unnamed (+41876)	
+CISH	"unnamed (+615), unnamed (+3834), unnamed (+3850)"	
+CKAP2L	unnamed (+37669)	
+CKAP4	"unnamed (-56079), unnamed (-55888)"	
+CLEC16A	"unnamed (-25414), unnamed (+27795), unnamed (+27837), unnamed (+94408)"	
+CLEC18B	unnamed (-33993)	
+CMIP	"unnamed (+206849), unnamed (+206878), unnamed (+206901)"	
+COG6	unnamed (+906213)	
+COL5A1	unnamed (-282809)	
+COMP	"unnamed (+29333), unnamed (+47924)"	
+COQ10A	unnamed (+986)	
+COQ10B	unnamed (-535)	
+CRISPLD2	unnamed (+179487)	
+CRTC1	"unnamed (+59711), unnamed (+78302)"	
+CRTC3	unnamed (-117195)	
+CSF3	unnamed (+11646)	
+CSNK2B	unnamed (-432)	
+CTSH	unnamed (+794)	
+CYLD	unnamed (-1370)	
+CYP2W1	unnamed (+40601)	
+DAXX	unnamed (+14)	
+DDAH2	unnamed (-435)	
+DDR1	unnamed (-43469)	
+DENND2C	unnamed (-1885)	
+DERL1	unnamed (+178876)	
+DHX36	unnamed (-255)	
+DIABLO	unnamed (+2980)	
+DIP2A	unnamed (-3259)	
+DIP2B	unnamed (+33957)	
+DNAJB13	unnamed (+29905)	
+DNAJC5	"unnamed (+13340), unnamed (+52910)"	
+DNAJC8	unnamed (-3925)	
+DYNAP	unnamed (+184937)	
+DYNC1LI2	unnamed (-356)	
+ECI1	unnamed (+923)	
+EFCAB12	unnamed (+70212)	
+EFEMP2	unnamed (-408)	
+EHD4	"unnamed (+52033), unnamed (+63525)"	
+EIF3J	unnamed (+8704)	
+ENC1	unnamed (+891568)	
+ENSG00000091436	unnamed (+207145)	
+ENSG00000237452	"unnamed (-3373), unnamed (-3306)"	
+ENSG00000249590	unnamed (-10554)	
+ENSG00000256861	unnamed (+200)	
+ENSG00000258311	unnamed (+258)	
+ENSG00000273217	unnamed (+670)	
+EPS8	unnamed (-12888)	
+ERBB3	unnamed (-498)	
+ERP29	unnamed (+59)	
+ESYT1	"unnamed (+283), unnamed (+292)"	
+EXOC6	unnamed (-158037)	
+FADS1	"unnamed (+1297), unnamed (+1546), unnamed (+19424)"	
+FADS2	"unnamed (+671), unnamed (+790), unnamed (+801)"	
+FAM114A1	"unnamed (+265), unnamed (+278), unnamed (+298), unnamed (+323), unnamed (+330)"	
+FAM213B	unnamed (-284)	
+FAM63A	"unnamed (-948), unnamed (+9066)"	
+FAM92B	"unnamed (-458400), unnamed (-283981), unnamed (-283842)"	
+FBLN1	unnamed (+14422)	
+FBXO45	unnamed (+64319)	
+FBXO46	"unnamed (+959), unnamed (+1026)"	
+FCGR2A	unnamed (-116214)	
+FEN1	"unnamed (+744), unnamed (+5101), unnamed (+22979), unnamed (+23228)"	
+FMNL1	unnamed (+26153)	
+FNIP1	unnamed (+704)	
+FOSL1	unnamed (+1312)	
+FOXA3	unnamed (-1368)	
+FOXD1	"unnamed (+137056), unnamed (+137166)"	
+FOXJ2	"unnamed (+1543), unnamed (+1783), unnamed (+1816)"	
+FOXK2	unnamed (-23888)	
+FOXO1	unnamed (+104707)	
+GABARAPL3	unnamed (-3313)	
+GABPB2	"unnamed (+46), unnamed (+634)"	
+GJD3	"unnamed (+13201), unnamed (+13670)"	
+GLB1	"unnamed (+63), unnamed (+74)"	
+GLG1	unnamed (+151729)	
+GNA12	unnamed (+109225)	
+GNAI3	"unnamed (-1761), unnamed (-1680), unnamed (-1576), unnamed (-1053), unnamed (-1045)"	
+GPANK1	unnamed (+651)	
+GPR146	unnamed (-31485)	
+GPR18	"unnamed (-42475), unnamed (-42424), unnamed (-42295), unnamed (-42273), unnamed (-42261), unnamed (-42227), unnamed (-42141), unnamed (-35028)"	
+GPR183	"unnamed (+3186), unnamed (+3237), unnamed (+3366), unnamed (+3388), unnamed (+3400), unnamed (+3434), unnamed (+3520), unnamed (+10633)"	
+GPX4	"unnamed (+64116), unnamed (+64320)"	
+GRAMD4	"unnamed (-27908), unnamed (-27852), unnamed (-27806), unnamed (-27749), unnamed (-27730), unnamed (-27677), unnamed (-27655), unnamed (-27623)"	
+GRHL1	unnamed (+15047)	
+GSDMB	unnamed (+455)	
+GSE1	"unnamed (-216866), unnamed (-216727), unnamed (-42308)"	
+GSTM4	"unnamed (-12359), unnamed (-12299), unnamed (-12271), unnamed (-12269), unnamed (-12077)"	
+GUCA1A	unnamed (-13918)	
+H1FX	unnamed (-42162)	
+HDAC7	unnamed (+6912)	
+HEXIM1	unnamed (+3422)	
+HEXIM2	"unnamed (-9961), unnamed (+902)"	
+HHEX	unnamed (+2295)	
+HINFP	"unnamed (-942), unnamed (-918)"	
+HIP1R	unnamed (+59567)	
+HIST1H1D	"unnamed (+390), unnamed (+1052), unnamed (+1128)"	
+HIST1H2AB	unnamed (+232)	
+HIST1H2AC	"unnamed (-393), unnamed (+271)"	
+HIST1H2AE	unnamed (-388)	
+HIST1H2AG	unnamed (+283)	
+HIST1H2AH	unnamed (+260)	
+HIST1H2AK	unnamed (+1103)	
+HIST1H2AM	unnamed (-499)	
+HIST1H2BB	unnamed (-2104)	
+HIST1H2BC	"unnamed (-564), unnamed (+100)"	
+HIST1H2BG	unnamed (+95)	
+HIST1H2BH	"unnamed (-1442), unnamed (-1263), unnamed (-1145)"	
+HIST1H2BI	"unnamed (-411), unnamed (+112)"	
+HIST1H2BJ	"unnamed (-586), unnamed (+5728)"	
+HIST1H2BK	unnamed (-502)	
+HIST1H2BL	unnamed (+54857)	
+HIST1H2BN	unnamed (-1426)	
+HIST1H2BO	"unnamed (-2790), unnamed (-2771), unnamed (+259)"	
+HIST1H3B	unnamed (-1276)	
+HIST1H3C	unnamed (+350)	
+HIST1H3E	"unnamed (+49), unnamed (+8705), unnamed (+8781)"	
+HIST1H3F	"unnamed (+101), unnamed (+219), unnamed (+398)"	
+HIST1H3G	"unnamed (-1644), unnamed (-1121)"	
+HIST1H3J	"unnamed (-2892), unnamed (+138), unnamed (+157)"	
+HIST1H4D	unnamed (+136)	
+HIST1H4E	unnamed (+209)	
+HIST1H4G	"unnamed (-3475), unnamed (-3357), unnamed (-3178)"	
+HIST1H4K	unnamed (-75)	
+HLA-B	unnamed (-177)	
+HLA-DOA	"unnamed (+2139), unnamed (+26151)"	
+HLA-F	unnamed (-28464)	
+HMGN4	"unnamed (-873), unnamed (+15626), unnamed (+17835), unnamed (+35752)"	
+HORMAD2	unnamed (-75249)	
+HPCAL1	unnamed (+101765)	
+HRC	unnamed (+6822)	
+HSD17B4	"unnamed (-54821), unnamed (-54759)"	
+HSPD1	unnamed (+844)	
+HSPE1	unnamed (-791)	
+HSPE1-MOB4	unnamed (-1210)	
+ICOSLG	unnamed (+81162)	
+ICT1	"unnamed (+23784), unnamed (+23970)"	
+ID2	unnamed (+5184)	
+IER3	unnamed (-96061)	
+IFFO2	"unnamed (+2238), unnamed (+2603), unnamed (+2870), unnamed (+2895), unnamed (+2920), unnamed (+2938), unnamed (+2963), unnamed (+2979)"	
+IFI16	unnamed (+5922)	
+IFT140	unnamed (+62884)	
+IGFBP4	unnamed (+1678)	
+IL15	"unnamed (+930562), unnamed (+930723), unnamed (+931653), unnamed (+931778)"	
+IL18R1	"unnamed (-33754), unnamed (+697)"	
+IL1R1	unnamed (-121905)	
+IL1R2	unnamed (+29035)	
+IL1RL1	"unnamed (-104542), unnamed (-70542), unnamed (+10673)"	
+IL1RL2	"unnamed (+19987), unnamed (+53987)"	
+IL21R	unnamed (-72302)	
+IL4R	"unnamed (+710), unnamed (+752), unnamed (+15947)"	
+IL5	unnamed (+46536)	
+INPP4B	"unnamed (+277910), unnamed (+278035), unnamed (+278965), unnamed (+279126)"	
+IP6K3	unnamed (+7336)	
+IQCH	unnamed (+295)	
+IQGAP1	unnamed (+24655)	
+IRF1	"unnamed (-6188), unnamed (+67142)"	
+ITGB8	unnamed (-1710)	
+ITIH4	unnamed (-57)	
+JDP2	unnamed (+23326)	
+KATNB1	unnamed (+4826)	
+KCNQ1	"unnamed (+88373), unnamed (+88958)"	
+KDM4B	unnamed (-52592)	
+KIAA1432	unnamed (+350)	
+KIDINS220	unnamed (+153596)	
+KIF11	unnamed (-394)	
+KIF3A	unnamed (-10188)	
+KIFC1	unnamed (-239)	
+KIFC3	unnamed (+62032)	
+KLF11	unnamed (-76808)	
+KLF3	unnamed (+89161)	
+L3MBTL4	unnamed (+58620)	
+LAMA5	unnamed (-4085)	
+LDLRAP1	unnamed (-39860)	
+LEMD2	unnamed (+642)	
+LFNG	unnamed (-113107)	
+LGMN	unnamed (+67941)	
+LMO3	"unnamed (+2225), unnamed (+2247)"	
+LMTK3	"unnamed (-1140), unnamed (-1114)"	
+LPP	unnamed (+182772)	
+LRP1	unnamed (+7055)	
+LY6G5B	unnamed (-4535)	
+LY96	"unnamed (+294), unnamed (+324)"	
+MAB21L1	unnamed (+5095)	
+MAFF	unnamed (+16774)	
+MALT1	unnamed (+110637)	
+MAMSTR	unnamed (-9309)	
+MANBA	unnamed (+95413)	
+MANF	unnamed (+110)	
+MAPKAPK3	"unnamed (-3986), unnamed (-3970), unnamed (-751)"	
+MAPKAPK5	unnamed (-29444)	
+MB21D1	unnamed (-2176)	
+MCHR1	unnamed (-23660)	
+MED24	unnamed (+27315)	
+MED31	unnamed (-17525)	
+MEGF6	unnamed (+106905)	
+MGST1	"unnamed (+257125), unnamed (+257147)"	
+MKL1	unnamed (-18405)	
+MLANA	"unnamed (+116174), unnamed (+116262)"	
+MLLT11	unnamed (+1534)	
+MOB4	unnamed (+76642)	
+MOK	unnamed (+25101)	
+MORN3	unnamed (+41248)	
+MSL1	unnamed (-14205)	
+MST1R	unnamed (+211)	
+MTMR3	unnamed (+121770)	
+MYC	unnamed (+59422)	
+MYOM3	unnamed (+65693)	
+NAB2	unnamed (-297)	
+NACC2	unnamed (-56816)	
+NARF	unnamed (+37221)	
+NBEA	unnamed (+529313)	
+NCOA2	unnamed (+255518)	
+NEK6	unnamed (+27139)	
+NEU1	unnamed (-261)	
+NFKB1	"unnamed (-496), unnamed (+164252)"	
+NFKBIA	unnamed (+71838)	
+NFKBIL1	unnamed (-29)	
+NIN	unnamed (+8736)	
+NKAPL	unnamed (+5725)	
+NQO2	unnamed (+27174)	
+NR1D1	"unnamed (-7684), unnamed (+4282), unnamed (+4677), unnamed (+24580)"	
+NRIP1	unnamed (+96599)	
+NRROS	unnamed (-6679)	
+NT5DC4	unnamed (+5522)	
+NXPH4	unnamed (-81241)	
+OAZ2	unnamed (-46168)	
+ODC1	unnamed (+43039)	
+OIP5	unnamed (+48504)	
+OR2B11	unnamed (-813)	
+ORAI1	unnamed (+1857)	
+OTUD7B	unnamed (-334)	
+OVOL1	unnamed (+31216)	
+PA2G4	unnamed (+786)	
+PAQR8	unnamed (-561)	
+PDE8A	"unnamed (+2404), unnamed (+2468), unnamed (+2525), unnamed (+2888)"	
+PDE9A	unnamed (+68746)	
+PDGFA	unnamed (-19881)	
+PER1	unnamed (-2713)	
+PFKFB3	"unnamed (-39483), unnamed (-256), unnamed (+1745)"	
+PGBD1	"unnamed (-16491), unnamed (+165)"	
+PHF19	"unnamed (+678), unnamed (+682)"	
+PIM3	unnamed (-4037)	
+PIP5K1A	unnamed (+302)	
+PKP1	unnamed (+4698)	
+PLA2G4B	unnamed (+22008)	
+PLCD3	"unnamed (-3749), unnamed (-3726), unnamed (-3650), unnamed (-851), unnamed (-844)"	
+PLCG2	"unnamed (-127239), unnamed (-127210), unnamed (-127187)"	
+PLEKHG3	unnamed (-22027)	
+PLIN3	unnamed (-48760)	
+PLXDC1	unnamed (-2784)	
+PM20D2	unnamed (-1281)	
+POLD4	unnamed (+41590)	
+POLI	unnamed (-159)	
+POLR3B	"unnamed (-53782), unnamed (-53591)"	
+POLR3H	unnamed (+46)	
+PPFIA3	unnamed (+29213)	
+PPP1R36	unnamed (+132507)	
+PPP2R1B	"unnamed (+159), unnamed (+170)"	
+PPP5C	unnamed (+25571)	
+PPT2	unnamed (-4785)	
+PRDM14	unnamed (-76960)	
+PRKAG2	unnamed (+140974)	
+PRKAR1B	unnamed (+173932)	
+PRKCQ	unnamed (+375624)	
+PRKRIR	unnamed (+145152)	
+PRRT1	unnamed (+3214)	
+PRUNE	unnamed (+846)	
+PSMA6	unnamed (+40551)	
+PSMB4	unnamed (-152)	
+PSMB7	unnamed (+130337)	
+PSMD3	unnamed (+722)	
+PTGES3	"unnamed (+582), unnamed (+3786)"	
+PTPN6	"unnamed (+845), unnamed (+850), unnamed (+917)"	
+RAB27B	unnamed (-52103)	
+RANBP6	"unnamed (+8554), unnamed (+8642)"	
+RAPGEF6	"unnamed (-574), unnamed (+248191), unnamed (+250303)"	
+RARA	"unnamed (+40951), unnamed (+41420)"	
+RASA2	unnamed (-74097)	
+RASIP1	unnamed (+11691)	
+RASSF3	unnamed (-1761)	
+RAVER2	unnamed (-238379)	
+RBM17	unnamed (+74102)	
+RBMS2	unnamed (+1096)	
+RBPMS	unnamed (+171216)	
+RBPMS2	unnamed (+26138)	
+RDH5	"unnamed (-4104), unnamed (+6326)"	
+REC8	"unnamed (+192), unnamed (+376), unnamed (+455), unnamed (+484), unnamed (+497)"	
+RFTN2	unnamed (+83521)	
+RHEB	unnamed (-216226)	
+RHOF	unnamed (+4980)	
+RIN3	unnamed (+166965)	
+RING1	unnamed (+40963)	
+RIPK1	unnamed (-41276)	
+RNF220	unnamed (+119685)	
+RPAP3	unnamed (+482738)	
+RPS20	unnamed (-477)	
+RREB1	unnamed (+159938)	
+RXRA	unnamed (+32385)	
+S100A10	"unnamed (+325), unnamed (+48549)"	
+S100A11	unnamed (+24)	
+SAMSN1	unnamed (-384999)	
+SAV1	unnamed (-154054)	
+SBNO2	"unnamed (+6026), unnamed (+6230)"	
+SCAND3	unnamed (-276831)	
+SCML4	unnamed (+799)	
+SEC14L2	unnamed (+1851)	
+SEC61B	"unnamed (-517), unnamed (+4), unnamed (+398)"	
+8-Sep	unnamed (+29549)	
+SETBP1	unnamed (+109474)	
+SF3B1	unnamed (+425)	
+SH2B3	unnamed (+45249)	
+SHROOM1	unnamed (+478)	
+SKP1	unnamed (+802)	
+SLC13A5	unnamed (+44407)	
+SLC14A2	unnamed (-824429)	
+SLC22A4	"unnamed (+127), unnamed (+185), unnamed (+816)"	
+SLC22A5	unnamed (+53904)	
+SLC38A10	"unnamed (+9529), unnamed (+17055)"	
+SLC41A2	"unnamed (+469585), unnamed (+469615)"	
+SLC48A1	unnamed (+39665)	
+SMAD3	unnamed (+23905)	
+SMARCC2	"unnamed (-840), unnamed (-729)"	
+SMIM18	unnamed (-82874)	
+SNX32	unnamed (-15403)	
+SOCS1	"unnamed (+217283), unnamed (+283854), unnamed (+283896)"	
+SOX21	unnamed (-585743)	
+SPATA32	"unnamed (-15579), unnamed (+14170)"	
+SPG11	unnamed (+117903)	
+SPPL3	"unnamed (-290), unnamed (+582)"	
+SPRY1	"unnamed (-2091), unnamed (+38)"	
+SPRYD4	unnamed (-96)	
+SPTBN5	"unnamed (-26468), unnamed (-14976), unnamed (+43984)"	
+SRSF10	unnamed (-66163)	
+SSH3	unnamed (+8508)	
+SSR1	unnamed (+45461)	
+STAT5B	unnamed (+208)	
+STRAP	unnamed (-79931)	
+SUFU	"unnamed (-1559), unnamed (+371)"	
+SULF2	unnamed (-8861)	
+SYMPK	unnamed (+398)	
+TAF8	unnamed (+91004)	
+TAS2R41	unnamed (-5160)	
+TAS2R60	unnamed (+29260)	
+TBC1D13	unnamed (+117)	
+TBC1D14	unnamed (+44024)	
+TBX1	unnamed (+10549)	
+TDRKH	unnamed (+640)	
+TEF	unnamed (+62484)	
+TEKT3	unnamed (-67579)	
+THEM4	unnamed (-36033)	
+THRA	"unnamed (-61), unnamed (+13335), unnamed (+33238), unnamed (+33633)"	
+TLE4	unnamed (+52869)	
+TLR10	unnamed (+29601)	
+TMEM116	unnamed (-264)	
+TMEM120B	unnamed (+76487)	
+TMEM121	unnamed (-27374)	
+TMEM174	"unnamed (+138164), unnamed (+138274)"	
+TMEM184B	unnamed (+54377)	
+TMEM194A	unnamed (-396)	
+TMEM200C	unnamed (-460336)	
+TMEM204	unnamed (+15653)	
+TMEM258	unnamed (-771)	
+TMEM53	unnamed (+149676)	
+TMEM57	unnamed (+72800)	
+TMEM75	unnamed (+152839)	
+TMPPE	"unnamed (-366), unnamed (-355)"	
+TNF	unnamed (-152)	
+TNFAIP8	"unnamed (+43435), unnamed (+43497)"	
+TNNT2	unnamed (+89612)	
+TNS4	unnamed (+56458)	
+TOB2	unnamed (+2610)	
+TP53RK	unnamed (+255)	
+TPD52	unnamed (-268017)	
+TPRG1	unnamed (-776270)	
+TRAFD1	"unnamed (+731), unnamed (+763)"	
+TRIM27	unnamed (+59823)	
+TRIM8	"unnamed (-2259), unnamed (+268), unnamed (+704), unnamed (+1468), unnamed (+5120), unnamed (+13959)"	
+TRPV2	unnamed (+4690)	
+TSPAN17	unnamed (+917)	
+TVP23C	unnamed (+154321)	
+TWSG1	"unnamed (-196197), unnamed (-195246)"	
+UCKL1	"unnamed (+8323), unnamed (+47893)"	
+UCP2	unnamed (+3083)	
+UHRF2	unnamed (+743)	
+UIMC1	unnamed (-806)	
+UQCC2	unnamed (-27922)	
+VARS2	unnamed (-268)	
+VPS18	unnamed (-836)	
+VPS33A	unnamed (+298)	
+VPS37B	unnamed (+1451)	
+VPS52	unnamed (+22436)	
+WDR20	unnamed (+140185)	
+WDR36	unnamed (+775)	
+WDR4	unnamed (+157054)	
+WIPF2	unnamed (+55)	
+WNT11	unnamed (-29258)	
+ZBTB10	unnamed (-136834)	
+ZBTB38	unnamed (+25140)	
+ZBTB39	unnamed (+171)	
+ZBTB9	unnamed (+117255)	
+ZCCHC8	unnamed (-97)	
+ZDHHC7	unnamed (+12031)	
+ZFP57	unnamed (-17790)	
+ZHX2	unnamed (+82154)	
+ZKSCAN4	unnamed (+461)	
+ZKSCAN8	unnamed (+76897)	
+ZNF165	unnamed (+25032)	
+ZNF184	unnamed (-279955)	
+ZNF217	unnamed (-340715)	
+ZNF287	unnamed (+148937)	
+ZNF322	unnamed (-434821)	
+ZNF391	unnamed (+569)	
+ZNF532	unnamed (-80577)	
+ZNF655	unnamed (-1399)	
+ZNF687	unnamed (-282)	
+ZNF750	unnamed (-34274)	
+ZNF774	unnamed (+505)	
+ZSCAN16	unnamed (-18553)	
+ZSCAN9	unnamed (-6440)	
