@@ -14,3 +14,5 @@ This repository provides the necessary R scripts, data, and intermediate files f
   -  SessionInfo - provides detailed information about the R session used to run the R script.
 - **Files/**
   - Intermediate and processed output files
+## Contact
+For questions, please contact Abhinav Kaushik at akaushik [at] hsph.harvard.edu.
